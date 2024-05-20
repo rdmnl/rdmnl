@@ -1,3 +1,9 @@
+## 💻 SOFTWARE ENGINEER | DEVOPS
+
+Agile Software Engineer with over 7 years of experience in Python development, data modeling, and DevOps. Proven leader in driving technological innovations and system architecture enhancements for scalable solutions, particularly in startup environments. Passionate about learning new technologies quickly to address evolving challenges. Committed to delivering high-quality, scalable, and consistent code while prioritizing operational excellence and strategic outcomes. Expert in leading teams and projects with a focus on code clarity, collaboration, and adaptability.
+
+---
+
 ## 🛠️ SKILLS
 
 ### Programming Languages
